@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del módulo 2
+Prueba: Cómo crear un repositorio y clonarlo desde github a mi PC.
